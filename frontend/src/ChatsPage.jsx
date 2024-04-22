@@ -1,5 +1,4 @@
 const ChatsPage = () => {
-    return <>chats...</>
-}
-
-export default ChatsPage
+    return <div className="background">chats...</div>;
+  };
+  export default ChatsPage;
